@@ -35,8 +35,8 @@ which this wiki page is based off of, is also available but is out of date.
 | Blue note             |             2             |             2             |             2             |       2 or B        |
 | Bomb                  |             3             |             3             |             3             |          3          |
 | Wall                  |             4             |             4             |             4             |          4          |
-| Arc                   |                           |           Q/E/R           |                           |                     |
-| Chain                 |                           |           Drag            |                           |                     |
+| Arc                   |          Select+V         |           Q/E/R           |                           |                     |
+| Chain                 |          Select+S         |           Drag            |                           |                     |
 | Save map              |          Ctrl+S           |          Ctrl+S           |          Ctrl+S           |   N/A (Autosaves)   |
 
 <!-- markdownlint-restore -->
